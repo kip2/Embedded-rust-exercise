@@ -1,0 +1,14 @@
+[package]
+name = "l-chika"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wio_terminal = { version = "0.7.0", features = ["rt"] }
+panic-halt = "0.2"
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+opt-level = 3

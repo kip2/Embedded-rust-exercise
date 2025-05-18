@@ -1,9 +1,8 @@
-# Title
+# Embedded-rust-exercise
 
-## Summary
+Rustを用いてWio-Terminalに入門するリポジトリ。
 
-## Install
+[基礎から学ぶ組込みRust](https://www.c-r.com/book/detail/1403)を実践していくリポジトリです。
 
-## Usage
 
-## License
+
